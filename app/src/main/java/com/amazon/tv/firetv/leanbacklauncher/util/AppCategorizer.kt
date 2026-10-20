@@ -25,7 +25,7 @@ object AppCategorizer {
         "cn.tv",
         "com.bek_tv",
         "com.bilibili.tv",
-				"com.cibn.tv",
+        "com.cibn.tv",
         "com.hunantv.market",
         "com.newtv.cboxtv",
         "com.mb.android",
@@ -62,7 +62,7 @@ object AppCategorizer {
         "dutafilm",
         "elevenpoland",
         "exoplayer",
-				"emby"
+				"emby",
         "facebook",
         "filimons.soap4all",
         "filmbluray",
